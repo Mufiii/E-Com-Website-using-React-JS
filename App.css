@@ -1,0 +1,65 @@
+
+.heading {
+  color: white;
+} 
+.admin {
+  width: 20%;
+  height: 100vh;
+  /* display: flex; */
+  background-color: black;
+  justify-content:center
+}
+li {
+  color: white;
+  font-size: large;
+  list-style-type: none;
+  display: flex;
+}
+
+.list-group {
+  display: flex;
+  margin-top: 20%;
+}
+.main {
+  background-color: cadetblue;
+}
+
+.add {
+  width: 100%;
+  border-radius: 5px;
+}
+.field {
+  width: 60%;
+  margin-left: 20%;
+}
+
+.baby {
+  color: sandybrown;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  /* align-items: center;  */
+  margin-top: 170px;
+  margin-left: 5%;
+  font-size: 60px;
+  font-weight: bold;
+  
+} 
+.parag {
+  font-size: 15px;
+  font-weight: bold;
+  display: flex-start;
+  justify-content: center;
+  align-items: flex-start;
+  margin-left: 90px;
+  color: darkgray;
+  margin-top: 10px;
+}
+.img {
+  margin-left: 5%;
+}
+
+.brand {
+  font-weight: 500;
+  font-size: 20px;
+}
